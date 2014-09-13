@@ -1,1 +1,4 @@
 arm-linux-gnueabihf-gcc -Wall -lrt main.c RPI.c -o garbageText
+
+The RPI.c. and RPI.h are copied from http://www.pieter-jan.com/node/15
+The function DelayMicrosecondsNoSleep() in main.c is copied from http://www.raspberrypi.org/forums/viewtopic.php?f=33&t=17688
