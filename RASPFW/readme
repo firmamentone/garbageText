@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc -Wall -lrt main.c RPI.c -o garbageText
